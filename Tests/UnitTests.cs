@@ -1,4 +1,4 @@
-﻿public class UnitTests
+public class UnitTests
 {
     [Fact]
     public void Compress_SimpleString_ReturnsCorrect()
